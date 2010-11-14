@@ -1,0 +1,15 @@
+body{
+	font-family: Helvetica;
+}
+
+.error{
+	color: red;
+}
+
+.good{
+	color: green;
+}
+
+.box{
+	border: 1px solid gray;
+}
